@@ -606,13 +606,38 @@ section {
 
 }
 
-@media (max-width: 300px){
+@media (max-width: 340px){
     .wallslide{
         height: 610vh;
     }
 
     .scroll{
         top: 150%;
+    }
+    .skills{
+        top: 235%;
+    }
+}
+
+@media (max-width: 230px){
+    .wallslide{
+        height: 610vh;
+    }
+
+    .scroll{
+        top: 160%;
+    }
+    .skills{
+        top: 235%;
+    }
+}
+@media (max-width: 180px){
+    .wallslide{
+        height: 610vh;
+    }
+
+    .scroll{
+        top: 180%;
     }
     .skills{
         top: 235%;
